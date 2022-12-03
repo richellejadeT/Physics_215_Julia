@@ -11,4 +11,3 @@ We acknowledge the QuantumOptics library and documentation which helped us demon
   year={2018},
   publisher={Elsevier}
 }
-```bib
